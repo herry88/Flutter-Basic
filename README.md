@@ -1,4 +1,5 @@
-# Flutter-Basic
+# Flutter-Basic By Example Project 
+## Author : Herry Prasetyo 
 
 ## Chapter 1 : Pengenalan Dengan Flutter
 
