@@ -13,7 +13,7 @@
 
 ## Chapter 3 : Hello World Flutter Apps
 
-* [Membuat Hello World Dengan Flutter]
+* [Membuat Hello World Dengan Flutter](https://github.com/herry88/FlutterResourceCourse/tree/master/hello_world_app)
 * [StatelessWidget]
 * [Statefullwidget]
 
